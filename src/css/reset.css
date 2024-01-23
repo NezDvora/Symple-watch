@@ -9,6 +9,10 @@ p {
   margin: 0;
 }
 
+/* body {
+  font-family: 'League Spartan', sans-serif;
+} */
+
 ul {
   margin: 0;
   padding: 0;
@@ -26,7 +30,7 @@ button {
 
 img {
   display: block;
-  max-width: 100%;
+  /* max-width: 100%; */
   height: auto;
 }
 
